@@ -41,6 +41,7 @@ public class StavePractice extends Activity {
     private int staveType = ALL_STAVE;
 
     private int test = 0;
+    //测试
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
